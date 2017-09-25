@@ -1,0 +1,9 @@
+$ git config --global user.name 'gitwub'
+$ git config --global user.name '371964363@qq.com'
+pdw 路径
+
+$ touch a1.php创建文件
+
+git stauts 状态
+git commit -m '注释'
+git rm comand.txt 删除仓库的文件
